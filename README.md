@@ -26,7 +26,7 @@ Here is a list of languages and frameworks I have been learning.
 
 
 ### Personal Passion Project
-As I build my skills, I have been applying what I learn to a large passion project. I have a grand idea to reimagine the website and event registration capability for my local kickball league. Additionally, I want to build an app the league can use to keep track of the score and statistics during a kickball game. Ultimately, I'd like the app to be a on-stop-shop for all information regarding the kickball league and the current season. Here is what I've built so far:
+As I build my skills, I have been applying what I learn to a large passion project. I have an idea to reimagine the website and event registration capability for my local kickball league. Additionally, I want to build an app the league can use to keep track of the score and statistics during a kickball game. Ultimately, I'd like the app to be a one-stop-shop for all information regarding the kickball league and the current season. Here is what I've built so far:
 - [Registration web application](https://github.com/e-karr/cs50-final-project.git)
 - IN PROGRESS [Online scoresheet](https://github.com/e-karr/kickball-scoresheet.git)
 
