@@ -26,11 +26,13 @@ I have been learing a varity of languages and frameworks.
 - HTML
 - CSS
 - Javascript
+- Typescript
+- Angular
 - Python
 - Flask
 - SQL
-
-[![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-karr)](https://github.com/anuraghazra/github-readme-stats)
+- Java
+- Git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-karr&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
