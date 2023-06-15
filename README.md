@@ -19,7 +19,9 @@ I'm Elizabeth (she/her/hers) and I'm currently learning to code so I can make a 
 
 ### Bootcamps and Online Resources
 - Finished CS50x December 2022
-- Currently learning with The Odin Project and LaunchCode
+- In Progress: LaunchCode Java Web Development course
+- In Progress: The Odin Project
+- In Progress: Udemy - Angular (The Complete Guide)
 
 ### Languages & Frameworks
 I have been learing a varity of languages and frameworks.
@@ -37,11 +39,11 @@ I have been learing a varity of languages and frameworks.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-karr&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Personal Passion Project
+<!-- ### Personal Passion Project
 As I build my skills, I have been applying what I learn to a large passion project. I have an idea to reimagine the website and event registration capability for my local kickball league. Additionally, I want to build an app the league can use to keep track of the score and statistics during a kickball game. Ultimately, I'd like the app to be a one-stop-shop for all information regarding the kickball league and the current season. Here is what I've built so far:
 - [Registration web application](https://github.com/e-karr/cs50-final-project.git)
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=e-karr&repo=cs50-final-project"/>
 
 - IN PROGRESS
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=e-karr&repo=kickball-scoresheet"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=e-karr&repo=kickball-scoresheet"/> -->
 
