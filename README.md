@@ -30,6 +30,4 @@ I'm Elizabeth (she/her/hers)! As an aspiring web developer, I bring a solid foun
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-karr&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<i><b>Last Updated at</b></i>&nbsp;<!-- LAST-UPDATE:START -->
-Fri  10 Nov 2023
-<!-- LAST-UPDATE:END -->
+<i><b>Last Updated on</b></i>&nbsp;<!-- LAST-UPDATE:START --><!-- LAST-UPDATE:END -->
