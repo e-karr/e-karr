@@ -30,3 +30,6 @@ I'm Elizabeth (she/her/hers)! As an aspiring web developer, I bring a solid foun
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-karr&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+# 💫 Last Update
+<!-- DEFAULT-TAG:START -->
+<!-- DEFAULT-TAG:END -->
